@@ -1,7 +1,7 @@
 {
     "name": "hr.queue",
     "description": "Asycn tasks queue for HappyRhino",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "peerDependencies": {
         "q": "*",
         "hr.utils": "*",
