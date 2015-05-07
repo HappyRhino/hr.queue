@@ -1,7 +1,7 @@
 {
     "name": "hr.queue",
     "description": "Async tasks queue for HappyRhino",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "devDependencies": {
         "hr.mocha": "^0.2.0"
     },
