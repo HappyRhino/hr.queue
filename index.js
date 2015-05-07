@@ -1,4 +1,4 @@
-var _ = require("hr.utils");
+var _ = require("lodash");
 var Q = require("q");
 var Class = require("hr.class");
 
